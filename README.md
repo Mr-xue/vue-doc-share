@@ -110,3 +110,6 @@
 答：通过 `process.env.NODE_ENV`区分，值为development代表开发环境，值为production代表线上环境。例如：
 ![](https://i.imgur.com/DOmvXEs.png)
 
+
+
+四、多语言配置 [Github地址](https://github.com/Mr-xue/vue-doc-share/blob/master/%E5%A4%9A%E8%AF%AD%E8%A8%80%E9%85%8D%E7%BD%AE%E7%AE%80%E4%BB%8B.md)
