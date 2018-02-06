@@ -5,6 +5,9 @@
 
 > **时间：2018/2/6**
 
+相关文档链接：
+
+→ [Vue-i18n多语言配置](https://github.com/Mr-xue/vue-doc-share/blob/master/%E5%A4%9A%E8%AF%AD%E8%A8%80%E9%85%8D%E7%BD%AE%E7%AE%80%E4%BB%8B.md)
 
 
 ## 一.Vue-cli搭建 ##
