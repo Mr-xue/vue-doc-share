@@ -7,6 +7,8 @@
 
 相关文档链接：
 
+→ [Vue官方文档](https://cn.vuejs.org/v2/guide/)
+
 → [Vue-i18n多语言配置](https://github.com/Mr-xue/vue-doc-share/blob/master/%E5%A4%9A%E8%AF%AD%E8%A8%80%E9%85%8D%E7%BD%AE%E7%AE%80%E4%BB%8B.md)
 
 
@@ -115,4 +117,15 @@
 
 
 
-四、多语言配置 [Github地址](https://github.com/Mr-xue/vue-doc-share/blob/master/%E5%A4%9A%E8%AF%AD%E8%A8%80%E9%85%8D%E7%BD%AE%E7%AE%80%E4%BB%8B.md)
+
+## 四、vue应当掌握的知识点 ##
+
+1.数据的双向绑定，computed的使用
+
+2.component组件的使用，动态component的切换，props传参的使用
+
+3.生命周期钩子函数概念的理解及使用
+
+4.自定义事件，监听与触发
+
+5.watch监听变量变化状态
