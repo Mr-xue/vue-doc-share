@@ -1,5 +1,4 @@
 # Vue知识整理 #
-> **涉及技术栈 : Vue 2.x + Vue-Router 3.x + Webpack 2.x + Es6**
 
 > **作者 :  Mr.Xue**
 
@@ -10,6 +9,8 @@
 → [Vue官方文档](https://cn.vuejs.org/v2/guide/)
 
 → [Vue-i18n多语言配置](https://github.com/Mr-xue/vue-doc-share/blob/master/%E5%A4%9A%E8%AF%AD%E8%A8%80%E9%85%8D%E7%BD%AE%E7%AE%80%E4%BB%8B.md)
+
+→ [Vue-Router需要掌握知识点](https://github.com/Mr-xue/vue-doc-share/blob/master/vue-router.md)
 
 
 ## 一.Vue-cli搭建 ##
