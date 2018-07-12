@@ -32,7 +32,7 @@
 
 1.全局安装vue-cli
 
-- npm install -g @vue/cli
+- npm install -g vue-cli
 
 - vue-cli安装命根据版本的不同可能会发生变化，如果安装失败请参考官方[github说明文档](https://github.com/vuejs/vue-cli)
 
